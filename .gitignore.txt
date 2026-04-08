@@ -1,0 +1,25 @@
+# Android Studio & Gradle
+.iml
+.gradle
+build
+build
+local.properties
+.idea
+.kotlin
+.kts
+captures
+.cxx
+.externalNativeBuild
+
+# Logs
+.log
+
+# APK & generated files
+.apk
+.aab
+.ap_
+.dex
+
+# OS files
+.DS_Store
+Thumbs.db

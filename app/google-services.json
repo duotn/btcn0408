@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360199138713",
+    "project_id": "btcn-08-04",
+    "storage_bucket": "btcn-08-04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360199138713:android:7adafbe7a2ff7748fe7708",
+        "android_client_info": {
+          "package_name": "com.example.btcn0408"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-NpGz5sokuYD6yzVSVO7eKnYR4I2jrTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
